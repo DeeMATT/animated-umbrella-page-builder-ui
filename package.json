@@ -1,7 +1,7 @@
 {
-  "name": "grapesjs-preset-webpage",
-  "version": "0.1.11",
-  "description": "GrapesJS Plugin Webpage Preset",
+  "name": "wfp-webpage-builder",
+  "version": "0.1.12",
+  "description": "WFP Website Page Builder",
   "main": "dist/grapesjs-preset-webpage.min.js",
   "scripts": {
     "lint": "eslint src",
@@ -52,6 +52,7 @@
     "grapesjs-navbar": "^0.1.5",
     "grapesjs-plugin-export": "^0.1.5",
     "grapesjs-plugin-filestack": "^0.1.1",
-    "grapesjs-plugin-forms": "^0.3.5"
+    "grapesjs-plugin-forms": "^0.3.5",
+    "r": "^0.0.5"
   }
 }
