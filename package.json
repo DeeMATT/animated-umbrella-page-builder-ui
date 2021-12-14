@@ -1,6 +1,6 @@
 {
   "name": "webpage-builder",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "description": "Website Page Builder",
   "main": "dist/grapesjs-preset-webpage.min.js",
   "scripts": {
@@ -46,6 +46,7 @@
     "webpack-dev-server": "^2.11.2"
   },
   "dependencies": {
+    "grapesjs": "^0.17.29",
     "grapesjs-aviary": "^0.1.2",
     "grapesjs-blocks-basic": "^0.1.7",
     "grapesjs-component-countdown": "^0.1.2",
