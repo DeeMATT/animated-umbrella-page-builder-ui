@@ -1,7 +1,5 @@
-yarn add \r
+yarn add \r grapesjs --no-save
 
 yarn run build
 
-rm -fr /var/www/html/page-builder-ui/*
-
-mv build/* /var/www/html/page-builder-ui
+pm2 start yarn -- start
