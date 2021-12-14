@@ -1,7 +1,7 @@
 {
-  "name": "wfp-webpage-builder",
+  "name": "webpage-builder",
   "version": "0.1.12",
-  "description": "WFP Website Page Builder",
+  "description": "Website Page Builder",
   "main": "dist/grapesjs-preset-webpage.min.js",
   "scripts": {
     "lint": "eslint src",
